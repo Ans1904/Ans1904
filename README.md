@@ -1,6 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently pursuing Computer Engineering.<br>🌱 I’m currently learning Flutter and React.<br>💬 Ask me about App and Web Dev.<br>⚡ Fun fact : Part time coder, Full time cricketer.<br>💻 sawantathurva19@gmail.com
-
+🔭 I’m currently pursuing Computer Engineering.<br><br>🌱 I’m currently learning Flutter and React.<br><br>💬 Ask me about App and Web Dev.<br><br>⚡ Fun fact : Part time coder, Full time cricketer.<br><br>💻 sawantathurva19@gmail.com
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/ans19_itsofficial) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/atharva-sawant-6476327248) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/sawantathurva19) [![Quora](https://img.shields.io/badge/Quora-%23B92B27.svg?logo=Quora&logoColor=white)](https://quora.com/profile/Atharva-Sawant-27) 
